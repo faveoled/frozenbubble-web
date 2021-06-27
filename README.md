@@ -1,7 +1,8 @@
 # frozenbubble-web
 
-Web-compiled version of http://glenn.sanson.free.fr/v2/?select=fb:play
-using CheerpJ.
+Frozen Bubble 1.0.2 web-compiled using CheerpJ.
+Original at http://glenn.sanson.free.fr/v2/?select=fb:play
+
 
 # Build
 `
